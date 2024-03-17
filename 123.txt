@@ -1,0 +1,3 @@
+ <a class="active" href="index.html">Студія</a>
+        <a href="index1.html">Портфоліо</a>
+        <a href="#">Контакти</a>
