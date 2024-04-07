@@ -13,21 +13,7 @@ a {
 *{
     font-family: Arial, Helvetica, sans-serif;
 }
-.webstudio {
-    color: var(--accent-color);
-    font-family: "Raleway" sans-serif;
-    font-size: xx-large;
-  }
-  .studio {
-    color: black;
-    font-family: "Raleway" sans-serif;
-    font-size: xx-large;
-  }
-  .studo {
-    color: whitesmoke;
-    font-family: "Raleway" sans-serif;
-    font-size: xx-large;
-  }
+
 .order-button{
   background-color: var(--accent-color);
 }
@@ -50,4 +36,40 @@ a {
 /*Do you understand it? -No? me too*/
 .header-list{
   
+}
+.webstudio {
+  color: var(--accent-color);
+  font-family: "Raleway", sans-serif;
+  font-size: xx-large;
+  width: 145px;
+  height: 31px;
+  font-weight: 700;
+}
+.studio {
+  color: black;
+  font-family: "Raleway", sans-serif;
+  width: 145px;
+  height: 31px;
+  font-weight: 700;
+}
+.studo {
+  color: whitesmoke;
+  font-family: "Raleway", sans-serif;
+  width: 145px;
+  height: 31px;
+  font-weight: 700;
+}
+.header-list{
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+*{
+  list-style: none;
+}
+.order-button{
+  margin-top: 30px;
+  margin-bottom: 200px;
+}
+.first{
+  padding-top: 200px;
 }
