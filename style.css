@@ -15,17 +15,17 @@ a {
 }
 .webstudio {
     color: var(--accent-color);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Raleway" sans-serif;
     font-size: xx-large;
   }
   .studio {
     color: black;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Raleway" sans-serif;
     font-size: xx-large;
   }
   .studo {
     color: whitesmoke;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Raleway" sans-serif;
     font-size: xx-large;
   }
 .order-button{
@@ -48,3 +48,6 @@ a {
   color: whitesmoke;
 }
 /*Do you understand it? -No? me too*/
+.header-list{
+  
+}
