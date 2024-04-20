@@ -73,3 +73,7 @@ a {
 .first{
   padding-top: 200px;
 }
+.container{
+  margin: 0 auto;
+  outline: solid 1px auto rgb(76, 0, 255);
+}
