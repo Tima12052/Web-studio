@@ -39,10 +39,9 @@ a {
 }
 .webstudio {
   color: var(--accent-color);
+  text-decoration: none;
   font-family: "Raleway", sans-serif;
-  font-size: xx-large;
-  width: 145px;
-  height: 31px;
+  font-size: 26px;
   font-weight: 700;
 }
 .studio {
@@ -81,8 +80,14 @@ a {
   display: flex;
 }
 .item1{
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   justify-content: center;
   gap: 50px;
   word-wrap: normal;
+}
+.roboto{
+  font-family: "Roboto";
+}
+.footer-mail{
+  color: rgba(255, 255, 255, 0.6);
 }
