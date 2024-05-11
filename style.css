@@ -91,3 +91,6 @@ a {
 .footer-mail{
   color: rgba(255, 255, 255, 0.6);
 }
+.flex1{
+  justify-content: center;
+}
