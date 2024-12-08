@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "web-studio",
+			"path": "."
+		}
+	],
+	"settings": {
+		"name": "live-server"
+	}
+}
